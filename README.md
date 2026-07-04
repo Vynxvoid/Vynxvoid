@@ -4,7 +4,6 @@
 
 **Full-Stack Developer | AI Engineer | Problem Solver**
 
-<video src="./git.mp4" autoplay loop muted playsinline width="80%"></video>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=Building+secure,+scalable+web+apps;Architecting+AI-Native+Pipelines;Turning+ideas+into+deployed+services" alt="Typing SVG" />
 
