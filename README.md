@@ -12,7 +12,6 @@
 
 *Full-stack developer skilled across React, Next.js, Node.js, Express, FastAPI, and AI integration. Strong at building scalable web apps end-to-end, from complex authentication to RAG pipelines.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-32CD32?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vynxvoid)
 [![Email](https://img.shields.io/badge/Email-Contact-32CD32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vynxvoid007@gmail.com)
 
